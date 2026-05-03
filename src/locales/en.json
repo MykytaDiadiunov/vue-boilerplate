@@ -1,0 +1,42 @@
+{
+  "header": {
+    "home": "Home",
+    "auth": "Login / Registration"
+  },
+  "footer": {
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "contact": "Contact"
+  },
+  "validation": {
+    "required": "This field is required",
+    "passwords_mismatch": "Reentered password is not same as password!",
+    "wrong_password_or_username": "Wrong password or email",
+    "form_incorrectly": "The form is filled out incorrectly.",
+    "success": "Success"
+  },
+  "auth": {
+    "labels": {
+      "login": "Login",
+      "register": "Registration",
+      "logout": "Logout"
+    },
+    "inputs": {
+      "username": "Username",
+      "password": "Password",
+      "reentered_password": "Reentered password"
+    }
+  },
+  "profile": {
+    "interface": "Interface",
+    "account": "Account",
+    "change_lang": "Change language",
+    "change_theme": "Change theme",
+    "localisation": "Localisation"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System (auto)"
+  }
+}
